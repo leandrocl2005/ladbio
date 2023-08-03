@@ -1,5 +1,5 @@
 /********** Template CSS **********/
-
+html { scroll-behavior: smooth; }
 .back-to-top {
     position: fixed;
     display: none;
